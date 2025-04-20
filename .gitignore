@@ -1,0 +1,23 @@
+# Ignore les fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnement virtuel
+venv/
+env/
+
+# Dépendances spécifiques à l'environnement
+*.env
+
+# Fichiers IDE (ex. VS Code)
+.vscode/
+
+# Fichiers système (ex. Mac)
+.DS_Store
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
